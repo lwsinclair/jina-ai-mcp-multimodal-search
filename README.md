@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/sheshiyer-jina-ai-mcp-multimodal-search-badge.png)](https://mseep.ai/app/sheshiyer-jina-ai-mcp-multimodal-search)
+
 # Jina AI MCP Server
 
 A Model Context Protocol (MCP) server that provides seamless integration with Jina AI's neural search capabilities. This server enables semantic search, image search, and cross-modal search functionalities through a simple interface.
